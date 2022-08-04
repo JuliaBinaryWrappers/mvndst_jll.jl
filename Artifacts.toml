@@ -1,0 +1,459 @@
+[[mvndst]]
+arch = "aarch64"
+git-tree-sha1 = "908a76604f442d559e296b580991638d32432d56"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[mvndst.download]]
+    sha256 = "b00360550d9a903c3cbdaab7c28f258fbd93ce604110ffc30f4ca5254b6bbbf7"
+    url = "https://github.com/JuliaBinaryWrappers/mvndst_jll.jl/releases/download/mvndst-v1.0.0+0/mvndst.v1.0.0.aarch64-apple-darwin-libgfortran5.tar.gz"
+[[mvndst]]
+arch = "aarch64"
+git-tree-sha1 = "4a04c04a2c942e43aec6642ce5ed3ba9fb2839ee"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[mvndst.download]]
+    sha256 = "cbbdbc07e9c8addc1c326f3e101239d63d7cb5e2a3375e0d30760324f08b50d7"
+    url = "https://github.com/JuliaBinaryWrappers/mvndst_jll.jl/releases/download/mvndst-v1.0.0+0/mvndst.v1.0.0.aarch64-linux-gnu-libgfortran3.tar.gz"
+[[mvndst]]
+arch = "aarch64"
+git-tree-sha1 = "ade6133f2d2177f1a5f0cd9b68e88bf22885d68d"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[mvndst.download]]
+    sha256 = "491cc0ead2c5c49353b7c8241db159ed99cd8ced83e8ef26afa8915469a8e231"
+    url = "https://github.com/JuliaBinaryWrappers/mvndst_jll.jl/releases/download/mvndst-v1.0.0+0/mvndst.v1.0.0.aarch64-linux-gnu-libgfortran4.tar.gz"
+[[mvndst]]
+arch = "aarch64"
+git-tree-sha1 = "85838e550ff70995c14eda248d4ce2a9fc9f0951"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[mvndst.download]]
+    sha256 = "76dd14eca2fbd5f8ce68fccd449d19933da88902f9b7b412495291659e485454"
+    url = "https://github.com/JuliaBinaryWrappers/mvndst_jll.jl/releases/download/mvndst-v1.0.0+0/mvndst.v1.0.0.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[mvndst]]
+arch = "aarch64"
+git-tree-sha1 = "5a86f7c6812e0c1ce0957f07a9a198174c82d452"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[mvndst.download]]
+    sha256 = "1942cb60eba0d75073bf4aaf45a973553c5081e4b2b675b9a9e882fd105e1574"
+    url = "https://github.com/JuliaBinaryWrappers/mvndst_jll.jl/releases/download/mvndst-v1.0.0+0/mvndst.v1.0.0.aarch64-linux-musl-libgfortran3.tar.gz"
+[[mvndst]]
+arch = "aarch64"
+git-tree-sha1 = "3249d697a6d6586e3468b6fddb5de59b90799788"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[mvndst.download]]
+    sha256 = "76f633ece994d499031791bbc1779628874b126665394b3c9bad2d63014918e4"
+    url = "https://github.com/JuliaBinaryWrappers/mvndst_jll.jl/releases/download/mvndst-v1.0.0+0/mvndst.v1.0.0.aarch64-linux-musl-libgfortran4.tar.gz"
+[[mvndst]]
+arch = "aarch64"
+git-tree-sha1 = "54b903bfb9aed602fe5fc1686b6bf735cdef89df"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[mvndst.download]]
+    sha256 = "9e507ee3f85545bd0e89ab62a2e462614f2024e8c4c816a6fda2e1c01929fdce"
+    url = "https://github.com/JuliaBinaryWrappers/mvndst_jll.jl/releases/download/mvndst-v1.0.0+0/mvndst.v1.0.0.aarch64-linux-musl-libgfortran5.tar.gz"
+[[mvndst]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "57db1fc6245a10f0ac69fa2d09d36c6d5af1739d"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[mvndst.download]]
+    sha256 = "2ca60522f3be026a86176ceb1f5f4ebb7423e97d72e975b7630994c3ff0de6ef"
+    url = "https://github.com/JuliaBinaryWrappers/mvndst_jll.jl/releases/download/mvndst-v1.0.0+0/mvndst.v1.0.0.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
+[[mvndst]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "1a109bf91aa6991762defd190cf6ca063865939d"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[mvndst.download]]
+    sha256 = "067b00e37335ab497625288f8c72cd1a06532915968a50857c188b66e483c536"
+    url = "https://github.com/JuliaBinaryWrappers/mvndst_jll.jl/releases/download/mvndst-v1.0.0+0/mvndst.v1.0.0.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
+[[mvndst]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "e3a51308fb88cc2163874866ee047813246f6bc0"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[mvndst.download]]
+    sha256 = "345250acdc4bc1ff862a52bb5195871b377ec7cf7642b52aca980d873efc50f5"
+    url = "https://github.com/JuliaBinaryWrappers/mvndst_jll.jl/releases/download/mvndst-v1.0.0+0/mvndst.v1.0.0.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+[[mvndst]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "c8d8fadc0b576268e5253ff006a7012d1d48ca06"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[mvndst.download]]
+    sha256 = "e43c84d91c396f0befe8eacbc7211b2f8ff4ddf3dd0f7ae68eb92525476aac59"
+    url = "https://github.com/JuliaBinaryWrappers/mvndst_jll.jl/releases/download/mvndst-v1.0.0+0/mvndst.v1.0.0.armv6l-linux-musleabihf-libgfortran3.tar.gz"
+[[mvndst]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "bcf2c344b87a3eab8197fe43cdc2c97f8609bb31"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[mvndst.download]]
+    sha256 = "f8a05309a9735c503056827b2a9b4d00da2377e2f264bb93ddd0b23cd1217f75"
+    url = "https://github.com/JuliaBinaryWrappers/mvndst_jll.jl/releases/download/mvndst-v1.0.0+0/mvndst.v1.0.0.armv6l-linux-musleabihf-libgfortran4.tar.gz"
+[[mvndst]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "4497d8b477b33c5e7b7fcbf2898cccd1286a89c4"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[mvndst.download]]
+    sha256 = "492851550ce77a9af834acbf5d7a50ffe831524ded913c582b53a34efcc531ad"
+    url = "https://github.com/JuliaBinaryWrappers/mvndst_jll.jl/releases/download/mvndst-v1.0.0+0/mvndst.v1.0.0.armv6l-linux-musleabihf-libgfortran5.tar.gz"
+[[mvndst]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "29cb0ff960a8197277a47fe03a6fd732b09504fe"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[mvndst.download]]
+    sha256 = "54e6d3cdf5ff2af66a7fc5acfd52a4e39b2544809b641f25bcc43fdee7de657d"
+    url = "https://github.com/JuliaBinaryWrappers/mvndst_jll.jl/releases/download/mvndst-v1.0.0+0/mvndst.v1.0.0.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+[[mvndst]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "919212a8f2747f533ec09ca3df151f5ccf514813"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[mvndst.download]]
+    sha256 = "6d6326a773b8c28a0d0a68b5eb9f3cfa978755dfff0d605280bea95ba4a27137"
+    url = "https://github.com/JuliaBinaryWrappers/mvndst_jll.jl/releases/download/mvndst-v1.0.0+0/mvndst.v1.0.0.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+[[mvndst]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "051b7bc1646fef8a29859427cfed72a8360b020f"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[mvndst.download]]
+    sha256 = "fbed09fe314268ae2920a53c99fdf68160ef85b8214515df001ab3fa25c754c9"
+    url = "https://github.com/JuliaBinaryWrappers/mvndst_jll.jl/releases/download/mvndst-v1.0.0+0/mvndst.v1.0.0.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+[[mvndst]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "a68c4dc8082d6d6d77f4ba7d114dfe5fcca87118"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[mvndst.download]]
+    sha256 = "592cb1ee651335294dcacdc37e914cbfc56158bc591775b0ae2f33bbd882be19"
+    url = "https://github.com/JuliaBinaryWrappers/mvndst_jll.jl/releases/download/mvndst-v1.0.0+0/mvndst.v1.0.0.armv7l-linux-musleabihf-libgfortran3.tar.gz"
+[[mvndst]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "bdd770bc5827056701a2eee9630546a166d51c2e"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[mvndst.download]]
+    sha256 = "283220a7437252a26d5a6c8c972a1ef9d46e5dfce589942b196178a811408f26"
+    url = "https://github.com/JuliaBinaryWrappers/mvndst_jll.jl/releases/download/mvndst-v1.0.0+0/mvndst.v1.0.0.armv7l-linux-musleabihf-libgfortran4.tar.gz"
+[[mvndst]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "e0d7b9e8d117756ee22e955dbcc0301907e27377"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[mvndst.download]]
+    sha256 = "c134afdc95c5a269e73f7a395db453dc2f452715697e4cb00d0f83c3012546ae"
+    url = "https://github.com/JuliaBinaryWrappers/mvndst_jll.jl/releases/download/mvndst-v1.0.0+0/mvndst.v1.0.0.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+[[mvndst]]
+arch = "i686"
+git-tree-sha1 = "ca2b780ada83dd2a955289272c49cb1b61321413"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[mvndst.download]]
+    sha256 = "828d8aace86a45e4b20afdc45a85310a8152daf36fe025a278cd9b6db5b5e2c5"
+    url = "https://github.com/JuliaBinaryWrappers/mvndst_jll.jl/releases/download/mvndst-v1.0.0+0/mvndst.v1.0.0.i686-linux-gnu-libgfortran3.tar.gz"
+[[mvndst]]
+arch = "i686"
+git-tree-sha1 = "e6ccb32ab8e326566c2d67d2a9b030be9d77cd84"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[mvndst.download]]
+    sha256 = "f8da19b45ac5c7a9c721521f4b33d301cfbd58d43dbd73fbc4324f11a7de46f2"
+    url = "https://github.com/JuliaBinaryWrappers/mvndst_jll.jl/releases/download/mvndst-v1.0.0+0/mvndst.v1.0.0.i686-linux-gnu-libgfortran4.tar.gz"
+[[mvndst]]
+arch = "i686"
+git-tree-sha1 = "02e6d477ec907b3590539b0064561602a170220e"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[mvndst.download]]
+    sha256 = "85c231b8cbfb1b87528589382be20124704a6d5de9ae98e25d24ec778a15c446"
+    url = "https://github.com/JuliaBinaryWrappers/mvndst_jll.jl/releases/download/mvndst-v1.0.0+0/mvndst.v1.0.0.i686-linux-gnu-libgfortran5.tar.gz"
+[[mvndst]]
+arch = "i686"
+git-tree-sha1 = "d97fe14caa1052cdf1d89b623d37f0828e87ce07"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[mvndst.download]]
+    sha256 = "319fe0faada5fe84589f43f2dd112a4241a4e149121d7ab433b3d257ff845cf0"
+    url = "https://github.com/JuliaBinaryWrappers/mvndst_jll.jl/releases/download/mvndst-v1.0.0+0/mvndst.v1.0.0.i686-linux-musl-libgfortran3.tar.gz"
+[[mvndst]]
+arch = "i686"
+git-tree-sha1 = "4b8c176e7e8cf8c2230c8ce6f8142a8d62f86864"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[mvndst.download]]
+    sha256 = "a5076955af2a58d3c4a443f0b9fc0085c6c716f1c82a1ec65a871b98d4003124"
+    url = "https://github.com/JuliaBinaryWrappers/mvndst_jll.jl/releases/download/mvndst-v1.0.0+0/mvndst.v1.0.0.i686-linux-musl-libgfortran4.tar.gz"
+[[mvndst]]
+arch = "i686"
+git-tree-sha1 = "f7b0d57d8a36d88d065a3135891aa6165919df9e"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[mvndst.download]]
+    sha256 = "4fe494dcc2b7122f96ff63fda40a9bc5f846b920385b7af95595d09641573312"
+    url = "https://github.com/JuliaBinaryWrappers/mvndst_jll.jl/releases/download/mvndst-v1.0.0+0/mvndst.v1.0.0.i686-linux-musl-libgfortran5.tar.gz"
+[[mvndst]]
+arch = "i686"
+git-tree-sha1 = "0866a27f1616cd5ec5d88f8214bb83c0908be3ed"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[mvndst.download]]
+    sha256 = "6b04cc530d71000c0b23bd50d8ee5265d848395347a6404526c3e1d7a61ada00"
+    url = "https://github.com/JuliaBinaryWrappers/mvndst_jll.jl/releases/download/mvndst-v1.0.0+0/mvndst.v1.0.0.i686-w64-mingw32-libgfortran3.tar.gz"
+[[mvndst]]
+arch = "i686"
+git-tree-sha1 = "739dfbe3d2ad862bbf9475bc097f7db2ce80dfd3"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[mvndst.download]]
+    sha256 = "372d72ad4bd6291ffb78ae4b861755ba98ff25bb18e6c5e291da01247d77982c"
+    url = "https://github.com/JuliaBinaryWrappers/mvndst_jll.jl/releases/download/mvndst-v1.0.0+0/mvndst.v1.0.0.i686-w64-mingw32-libgfortran4.tar.gz"
+[[mvndst]]
+arch = "i686"
+git-tree-sha1 = "c78cd12828b2e2fa01ba4d02019783b027cb31e8"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[mvndst.download]]
+    sha256 = "241cf1699d00c219a778a5562426df18362be8ebc19da3cb79e49bb84aab9f3d"
+    url = "https://github.com/JuliaBinaryWrappers/mvndst_jll.jl/releases/download/mvndst-v1.0.0+0/mvndst.v1.0.0.i686-w64-mingw32-libgfortran5.tar.gz"
+[[mvndst]]
+arch = "powerpc64le"
+git-tree-sha1 = "c407c7bba83243e76c1130a1798c4cb443b21cf6"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[mvndst.download]]
+    sha256 = "a5da3dfe5f1f164b1beadc3be941f9458993616ac5dd3190ca7f44b5183bee7b"
+    url = "https://github.com/JuliaBinaryWrappers/mvndst_jll.jl/releases/download/mvndst-v1.0.0+0/mvndst.v1.0.0.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+[[mvndst]]
+arch = "powerpc64le"
+git-tree-sha1 = "393ca4e126c9d28db9b65a0e58feca0b7b9e8364"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[mvndst.download]]
+    sha256 = "68cde8a0f927d8e5d053303f125160836d71a22f24cf673592eba98a060e7ba7"
+    url = "https://github.com/JuliaBinaryWrappers/mvndst_jll.jl/releases/download/mvndst-v1.0.0+0/mvndst.v1.0.0.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+[[mvndst]]
+arch = "powerpc64le"
+git-tree-sha1 = "49487119667be077a8dcd8927d55938b1043d468"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[mvndst.download]]
+    sha256 = "11b3d85568bdda74cdb0bdd913213eae1e9e45532daa751774e0d4bcac4ad58d"
+    url = "https://github.com/JuliaBinaryWrappers/mvndst_jll.jl/releases/download/mvndst-v1.0.0+0/mvndst.v1.0.0.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[mvndst]]
+arch = "x86_64"
+git-tree-sha1 = "74eea43017145b7d0e46263ba68dfe9af5f27963"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[mvndst.download]]
+    sha256 = "9b380655f8cf5b7b1fa321f4d4302476f77745f1ccf6b5a5f586f24971ccb166"
+    url = "https://github.com/JuliaBinaryWrappers/mvndst_jll.jl/releases/download/mvndst-v1.0.0+0/mvndst.v1.0.0.x86_64-apple-darwin-libgfortran3.tar.gz"
+[[mvndst]]
+arch = "x86_64"
+git-tree-sha1 = "6ddbb9a51eebe700a3ad375445cfdd583078b51d"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[mvndst.download]]
+    sha256 = "b11188ee78709eb84e7078213fd17f95cb7c60e23752dc609d284ad4f9a3f3a9"
+    url = "https://github.com/JuliaBinaryWrappers/mvndst_jll.jl/releases/download/mvndst-v1.0.0+0/mvndst.v1.0.0.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[mvndst]]
+arch = "x86_64"
+git-tree-sha1 = "6b69fa8b915d2b2022a1e35fe87a33092d70dd0e"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[mvndst.download]]
+    sha256 = "e552e9ad186606d90e14fc6d664976f47b8006eaba843747c914dd192343447d"
+    url = "https://github.com/JuliaBinaryWrappers/mvndst_jll.jl/releases/download/mvndst-v1.0.0+0/mvndst.v1.0.0.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[mvndst]]
+arch = "x86_64"
+git-tree-sha1 = "d764ca6b5c1a9811bfc60ec6be0c7691aa4f1a6d"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[mvndst.download]]
+    sha256 = "77dcc5025507001ccad2fb76ec5b2059ee52be433335c6838228bdedb4503bd9"
+    url = "https://github.com/JuliaBinaryWrappers/mvndst_jll.jl/releases/download/mvndst-v1.0.0+0/mvndst.v1.0.0.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[mvndst]]
+arch = "x86_64"
+git-tree-sha1 = "362c54263881150e3e40488cc9223978d982bc65"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[mvndst.download]]
+    sha256 = "c098be88531b55ad21084726feb316be1382f17882cb443e4885f33b79b97762"
+    url = "https://github.com/JuliaBinaryWrappers/mvndst_jll.jl/releases/download/mvndst-v1.0.0+0/mvndst.v1.0.0.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[mvndst]]
+arch = "x86_64"
+git-tree-sha1 = "316c7eb3b29d24bd91ab3489449485b1b0dade50"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[mvndst.download]]
+    sha256 = "37214fe4ec4dc72edf81f38a328d655f37db7200c4c69468a6aedbef0b7131a1"
+    url = "https://github.com/JuliaBinaryWrappers/mvndst_jll.jl/releases/download/mvndst-v1.0.0+0/mvndst.v1.0.0.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[mvndst]]
+arch = "x86_64"
+git-tree-sha1 = "8e40311cd092cdad2ed2c3a40bbc44c2c3659d58"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[mvndst.download]]
+    sha256 = "fb74c33cefad48c42171d7e613edad0dd50ebafb2fb2f2fe8b32018e6286bc2c"
+    url = "https://github.com/JuliaBinaryWrappers/mvndst_jll.jl/releases/download/mvndst-v1.0.0+0/mvndst.v1.0.0.x86_64-linux-musl-libgfortran3.tar.gz"
+[[mvndst]]
+arch = "x86_64"
+git-tree-sha1 = "39846e7879545647827fed454cc8dc02a19798f0"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[mvndst.download]]
+    sha256 = "b83cd48f1a8c23d9afdeac9f1d41cc807d10f4605dfabef30d559ea3992a8ad1"
+    url = "https://github.com/JuliaBinaryWrappers/mvndst_jll.jl/releases/download/mvndst-v1.0.0+0/mvndst.v1.0.0.x86_64-linux-musl-libgfortran4.tar.gz"
+[[mvndst]]
+arch = "x86_64"
+git-tree-sha1 = "3e9fd69b82f073b454c933b73f76900b17beed69"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[mvndst.download]]
+    sha256 = "5b0adb2a0e6e3035c8fa61fea8dd8b70ea21fcc45790842c46edec2b8b5ea79c"
+    url = "https://github.com/JuliaBinaryWrappers/mvndst_jll.jl/releases/download/mvndst-v1.0.0+0/mvndst.v1.0.0.x86_64-linux-musl-libgfortran5.tar.gz"
+[[mvndst]]
+arch = "x86_64"
+git-tree-sha1 = "11ce8bc1280652e101f3f0e9894dbb0156702640"
+libgfortran_version = "3.0.0"
+os = "freebsd"
+
+    [[mvndst.download]]
+    sha256 = "2e51332b56ab01f320d4b6f88360730d5710e460d75ab6b81db06d4e52633acd"
+    url = "https://github.com/JuliaBinaryWrappers/mvndst_jll.jl/releases/download/mvndst-v1.0.0+0/mvndst.v1.0.0.x86_64-unknown-freebsd-libgfortran3.tar.gz"
+[[mvndst]]
+arch = "x86_64"
+git-tree-sha1 = "0abf0ef16d09b9b0c2c94da78a22d2b0ea917aa4"
+libgfortran_version = "4.0.0"
+os = "freebsd"
+
+    [[mvndst.download]]
+    sha256 = "f3bb97dab77c55f2f3e13c0a8041ecee42ee5ae50b0a2d2e4fa0d135945ad1cc"
+    url = "https://github.com/JuliaBinaryWrappers/mvndst_jll.jl/releases/download/mvndst-v1.0.0+0/mvndst.v1.0.0.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+[[mvndst]]
+arch = "x86_64"
+git-tree-sha1 = "15ead3a14a38c5f405b9de3355ba15ec9f241ed5"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[mvndst.download]]
+    sha256 = "e6b68b023abd08b99fc1b55683ec85ef825fc0c43fe54ff61d36bcc100675bb1"
+    url = "https://github.com/JuliaBinaryWrappers/mvndst_jll.jl/releases/download/mvndst-v1.0.0+0/mvndst.v1.0.0.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+[[mvndst]]
+arch = "x86_64"
+git-tree-sha1 = "07afab65d9f7b8a3b24476ce5c03a14102564319"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[mvndst.download]]
+    sha256 = "58f029a7130ae5a2edca9fe4b633635cbfaf473de697c4cf59c539f6df9f98c5"
+    url = "https://github.com/JuliaBinaryWrappers/mvndst_jll.jl/releases/download/mvndst-v1.0.0+0/mvndst.v1.0.0.x86_64-w64-mingw32-libgfortran3.tar.gz"
+[[mvndst]]
+arch = "x86_64"
+git-tree-sha1 = "943b92ef1ca2aeb74a47ea60b957bf48b41cbb99"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[mvndst.download]]
+    sha256 = "7167317105e8c02b4415d3808a182272fc76f2e889eebe5caca7f617c99862bb"
+    url = "https://github.com/JuliaBinaryWrappers/mvndst_jll.jl/releases/download/mvndst-v1.0.0+0/mvndst.v1.0.0.x86_64-w64-mingw32-libgfortran4.tar.gz"
+[[mvndst]]
+arch = "x86_64"
+git-tree-sha1 = "9441354b0f5eaf2ee253d590642b8533d7e10469"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[mvndst.download]]
+    sha256 = "f81a1a33133490f8a8a3d82591319e6787e3660d1aff816c13e40d701886bf0f"
+    url = "https://github.com/JuliaBinaryWrappers/mvndst_jll.jl/releases/download/mvndst-v1.0.0+0/mvndst.v1.0.0.x86_64-w64-mingw32-libgfortran5.tar.gz"
